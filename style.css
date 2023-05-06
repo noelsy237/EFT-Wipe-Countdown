@@ -88,7 +88,7 @@ img:hover {
     font-weight: bold;
     color: #666666;
     margin-top: 5px;
-    position: fixed;
+    position: absolute;
     transform: translateY(68px);
   }
   
