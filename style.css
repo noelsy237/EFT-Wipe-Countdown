@@ -21,8 +21,8 @@ h2 {
 
 #img-container {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin: 0 auto;
   }
 
@@ -33,7 +33,7 @@ img {
     right: 0;
     bottom: 0;
     margin: auto;
-    width: 25%;
+    width: 45%;
     height: auto;
     border-radius: 50%;
     transition-duration: 0.2s;
@@ -42,7 +42,7 @@ img {
 }
 
 img:hover {
-    width: 30%;
+    width: 60%;
     transition-duration: 0.2s;
     transition-timing-function: linear;
    
